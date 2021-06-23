@@ -17,6 +17,13 @@ html {
     font-size: 30px;
 }
 
+#Contacto {
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    font-size: 30px;
+}
+
 /* Detalles */
 
 .negro {
@@ -39,4 +46,11 @@ h5 {
 .celeste {
     background-color: #4BCBCF;
     font-weight: 100;
+}
+
+footer {
+    background-color: #4BCBCF;
+}
+.alinear {
+    text-align: center;
 }
